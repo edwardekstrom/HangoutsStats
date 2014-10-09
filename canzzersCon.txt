@@ -52148,3 +52148,640 @@ Tyson Amundsen
 Have you no shame? That's why I categorized you as lower tier.
 Honestly, a whole day
 Merit Egan
+Edward Ekstrom
+C:\Python34\python.exe C:/Users/i53425/PycharmProjects/canzzers/counter.py
+Brayden Haws = 3528 (0.18)
+Tyson Amundsen = 3266 (0.17)
+Merit Egan = 3190 (0.16)
+Edward Ekstrom = 2970 (0.15)
+Colby Condie = 2621 (0.13)
+John Sherwood = 1496 (0.08)
+zach fackrell = 1310 (0.07)
+Bryan Samuelson = 1094 (0.06)
+Jeff Knudsen = 292 (0.02)
+Seth Vance = 191 (0.01)
+Alex Crawford = 160 (0.01)
+Jared Carter = 140 (0.01)
+Alex Platis = 108 (0.01)
+Samuel McConkie = 23 (0.01)
+
+Process finished with exit code 0
+latest stats
+Tyson, bryan is most definitely not lower tier.
+he is mid tier.
+Brayden Haws
+After bryan there is such a dramatic fall off
+Sad, wish all our friends would be on here more
+Edward Ekstrom
+Me too haws, me too....
+Merit Egan
+Bryan is hanging on to the middle tier, but just barely.
+Edward Ekstrom
+Of the active participators, he is definitely last.
+John, have you worked in Python since school or did you have to use it for your math classes?
+Bryan Samuelson
+I'm determined to prove myself worthy of middle tier status
+Edward Ekstrom
+For everyone in the chat, Python is the coolest programming language out there.
+It's like JavaScript and C++ made a beautiful object oriented yet functional programming language.
+Baby.
+Missed a key term there.
+Brayden Haws
+Bryan man
+We want you here with us
+We want you in the top tier
+Bryan Samuelson
+I'm here man. I'm in class but I'm here, honey badger don't care
+Merit Egan
+The top tier is open to all. Didn't your mom ever tell you that you can have more than one best friend?
+That's what it's like with the top tier
+There is no limit on how many people can be in the top tier, but you have to have the top tier traits.
+Edward Ekstrom
+https://github.com/edwardekstrom/HangoutsStats
+There's a repository with the code and current full conversation.
+to view the full history of our conversation, just click canzzersCon.txt on the link I sent you.
+then click view full file.
+Merit Egan
+haha, Colby just prophesied at the very beginning that Jeff wouldn't ever use it.
+Edward Ekstrom
+I'm also open to requests for different statistics you would like to see coded.
+Merit Egan
+Can you show picture statistics?
+I feel like I'd win with all my gifs
+Or tyson with all his screenshots
+Edward Ekstrom
+Oh dang, only text.
+Merit Egan
+who has used the most *
+which would translate into who is the worst at typing on their phone
+Edward Ekstrom
+Haha nice.
+I'll do that one next.
+John Sherwood
+Just in math classes.. in numerical analysis my whole class was to write a gps program. used python. Literally took the whole semester
+Edward Ekstrom
+Nice.
+Merit Egan
+Can we know the average length of each persons vox?
+Edward Ekstrom
+Yes.
+Bryan Samuelson
+Merit you're asking the right questions
+Colby Condie
+Eddy soon you and I will break the 3,000 vox milestone and join haws Tyson and merit
+Edward Ekstrom
+Ayooo
+Edward Ekstrom
+C:\Python34\python.exe C:/Users/i53425/PycharmProjects/canzzers/counter.py
+Brayden Haws:
+total voxes: 3528
+percent: 0.18
+used *: 4
+characters: 275128
+average vox length: 77.98412698412699
+Tyson Amundsen:
+total voxes: 3266
+percent: 0.17
+used *: 32
+characters: 302500
+average vox length: 92.62094304960196
+Merit Egan:
+total voxes: 3190
+percent: 0.16
+used *: 16
+characters: 241186
+average vox length: 75.60689655172413
+Edward Ekstrom:
+total voxes: 2970
+percent: 0.15
+used *: 73
+characters: 229370
+average vox length: 77.22895622895624
+Colby Condie:
+total voxes: 2621
+percent: 0.13
+used *: 38
+characters: 184588
+average vox length: 70.42655475009538
+John Sherwood:
+total voxes: 1496
+percent: 0.08
+used *: 20
+characters: 102754
+average vox length: 68.68582887700535
+zach fackrell:
+total voxes: 1310
+percent: 0.07
+used *: 23
+characters: 81414
+average vox length: 62.14809160305344
+Bryan Samuelson:
+total voxes: 1094
+percent: 0.06
+used *: 14
+characters: 84637
+average vox length: 77.36471663619744
+Jeff Knudsen:
+total voxes: 292
+percent: 0.02
+used *: 0
+characters: 22744
+average vox length: 77.89041095890411
+Seth Vance:
+total voxes: 191
+percent: 0.01
+used *: 4
+characters: 17503
+average vox length: 91.63874345549738
+Alex Crawford:
+total voxes: 160
+percent: 0.01
+used *: 3
+characters: 21778
+average vox length: 136.1125
+Jared Carter:
+total voxes: 140
+percent: 0.01
+used *: 0
+characters: 10572
+average vox length: 75.51428571428572
+Alex Platis:
+total voxes: 108
+percent: 0.01
+used *: 0
+characters: 8288
+average vox length: 76.74074074074075
+Samuel McConkie:
+total voxes: 23
+percent: 0.01
+used *: 1
+characters: 1395
+average vox length: 60.65217391304348
+
+Process finished with exit code 0
+I've used * the most
+73
+Merit Egan
+Tyson has the longest average vox, followed closely by seth
+Edward Ekstrom
+No, Crawdad
+His average length is 136 characters
+it's much more readable my program prints it out.
+Merit Egan
+woah, didn't see that one
+well done crawdad. You don't use it often, but when you do, you make the most of it
+Edward Ekstrom
+
+There's the top performers.
+Tyson could arguably be number one
+Since he has sent more characters
+His average vox length is much longer than haws'
+BTW it counts it as one vox if you send multiple in a row.
+Merit Egan
+certainly an argument to be made. Is the champion based on quality or quantity?
+Edward Ekstrom
+I could do it differently if we want
+if we said every individual vox is it's own
+what do you guys think?
+I will implement colby's idea next
+which is see who has the most haha's int he vox immediately following their vox.
+Merit Egan
+I like how it is. prevents manipulation
+Edward Ekstrom
+I agree, that's why I did it this way
+I could add the other stat too, as a side statistic.
+Merit Egan
+let's see who has the most haha's. that would be funny
+Edward Ekstrom
+alright give me a sec.
+C:\Python34\python.exe C:/Users/i53425/PycharmProjects/canzzers/counter.py
+Brayden Haws:
+funny voxes: 147
+Tyson Amundsen:
+funny voxes: 70
+Merit Egan:
+funny voxes: 121
+Edward Ekstrom:
+funny voxes: 81
+Colby Condie:
+funny voxes: 63
+John Sherwood:
+funny voxes: 31
+zach fackrell:
+funny voxes: 30
+Bryan Samuelson:
+funny voxes: 20
+Jeff Knudsen:
+funny voxes: 2
+Seth Vance:
+funny voxes: 5
+Alex Crawford:
+funny voxes: 7
+Jared Carter:
+funny voxes: 3
+Alex Platis:
+funny voxes: 3
+Samuel McConkie:
+funny voxes: 0
+
+Process finished with exit code 0
+Haws and merit are the funniest
+Merit Egan
+Haws just wins everything
+Edward Ekstrom
+But I think that stat is skewed because I say haha a lot.
+which means I am helping you guys but not myself.
+Merit Egan
+haha
+Edward Ekstrom
+Thx merit
+you just added one for me.
+Merit Egan
+thought I'd help
+Edward Ekstrom
+Ayoooooo
+Brayden Haws
+Haha
+Haha
+There you go Eddy
+Share the wealth
+Edward Ekstrom
+Thank you.
+Merit Egan
+haha
+this is great
+Edward Ekstrom
+next will be who swears the most.
+Haws will definitely win that one.
+Brayden Haws
+I think me and merit are good too at funny cause we get both sides of the spectrum. Merit just posts funny wholesome gifs, whilst I just swear and say sex jokes
+Edward Ekstrom
+haha
+Merit Egan
+there truly is something for everyone
+this chat is rated G and R and the same time
+Brayden Haws
+Haha
+Edward Ekstrom
+wait
+lets see ifg I put lol
+and haha
+does anyone ever say lol?
+Brayden Haws
+I do sometimes
+Merit Egan
+people add more has
+hahaha
+hahahaha
+Brayden Haws
+Saying I lol'd at a joke
+Edward Ekstrom
+C:\Python34\python.exe C:/Users/i53425/PycharmProjects/canzzers/counter.py
+Brayden Haws:
+funny voxes: 151
+Tyson Amundsen:
+funny voxes: 77
+Merit Egan:
+funny voxes: 128
+Edward Ekstrom:
+funny voxes: 86
+Colby Condie:
+funny voxes: 68
+John Sherwood:
+funny voxes: 33
+zach fackrell:
+funny voxes: 33
+Bryan Samuelson:
+funny voxes: 21
+Jeff Knudsen:
+funny voxes: 2
+Seth Vance:
+funny voxes: 5
+Alex Crawford:
+funny voxes: 7
+Jared Carter:
+funny voxes: 3
+Alex Platis:
+funny voxes: 3
+Samuel McConkie:
+funny voxes: 0
+
+Process finished with exit code 0
+It does increase our numbers a bit.
+Merit Egan
+add the hahaha
+and hahahaha
+Edward Ekstrom
+It counts both of those.
+if the string has "haha" in it
+hahahahaha
+has haha in it
+so does hahahahahaha
+so length of haha's doesnt matter.
+Merit Egan
+i see
+Edward Ekstrom
+I could count it for more if someone hahahahaha's more
+Merit Egan
+what does haha auto correct to?
+Edward Ekstrom
+oh yeah
+hags
+or haga
+I'll put those.
+Merit Egan
+haha
+this is funny
+just stats
+Edward Ekstrom
+C:\Python34\python.exe C:/Users/i53425/PycharmProjects/canzzers/counter.py
+Brayden Haws:
+funny voxes: 152
+Tyson Amundsen:
+funny voxes: 77
+Merit Egan:
+funny voxes: 128
+Edward Ekstrom:
+funny voxes: 88
+Colby Condie:
+funny voxes: 68
+John Sherwood:
+funny voxes: 33
+zach fackrell:
+funny voxes: 37
+Bryan Samuelson:
+funny voxes: 21
+Jeff Knudsen:
+funny voxes: 2
+Seth Vance:
+funny voxes: 5
+Alex Crawford:
+funny voxes: 7
+Jared Carter:
+funny voxes: 3
+Alex Platis:
+funny voxes: 3
+Samuel McConkie:
+funny voxes: 0
+
+Process finished with exit code 0
+It added a few for me
+and haws
+but not you merit.
+Merit Egan
+fuh
+lets take those out
+Edward Ekstrom
+Le'ts see the percentage of funny voxes.
+Merit Egan
+i agree
+Edward Ekstrom
+on an individual basis.
+Brayden Haws
+Eddy this is great, thank you
+Edward Ekstrom
+C:\Python34\python.exe C:/Users/i53425/PycharmProjects/canzzers/counter.py
+Brayden Haws:
+funny voxes: 152
+% funny voxes: 0.04308390022675737
+Tyson Amundsen:
+funny voxes: 77
+% funny voxes: 0.02357624004898959
+Merit Egan:
+funny voxes: 128
+% funny voxes: 0.04012539184952978
+Edward Ekstrom:
+funny voxes: 88
+% funny voxes: 0.02962962962962963
+Colby Condie:
+funny voxes: 68
+% funny voxes: 0.025944296070202214
+John Sherwood:
+funny voxes: 33
+% funny voxes: 0.022058823529411766
+zach fackrell:
+funny voxes: 37
+% funny voxes: 0.028244274809160305
+Bryan Samuelson:
+funny voxes: 21
+% funny voxes: 0.019195612431444242
+Jeff Knudsen:
+funny voxes: 2
+% funny voxes: 0.00684931506849315
+Seth Vance:
+funny voxes: 5
+% funny voxes: 0.02617801047120419
+Alex Crawford:
+funny voxes: 7
+% funny voxes: 0.04375
+Jared Carter:
+funny voxes: 3
+% funny voxes: 0.02142857142857143
+Alex Platis:
+funny voxes: 3
+% funny voxes: 0.027777777777777776
+Samuel McConkie:
+funny voxes: 0
+% funny voxes: 0.0
+
+Process finished with exit code 0
+Merit Egan
+gosh dang it haws
+Edward Ekstrom
+C:\Python34\python.exe C:/Users/i53425/PycharmProjects/canzzers/counter.py
+Brayden Haws:
+funny voxes: 152
+% funny voxes: 0.05
+Tyson Amundsen:
+funny voxes: 77
+% funny voxes: 0.03
+Merit Egan:
+funny voxes: 128
+% funny voxes: 0.05
+Edward Ekstrom:
+funny voxes: 88
+% funny voxes: 0.03
+Colby Condie:
+funny voxes: 68
+% funny voxes: 0.03
+John Sherwood:
+funny voxes: 33
+% funny voxes: 0.03
+zach fackrell:
+funny voxes: 37
+% funny voxes: 0.03
+Bryan Samuelson:
+funny voxes: 21
+% funny voxes: 0.02
+Jeff Knudsen:
+funny voxes: 2
+% funny voxes: 0.01
+Seth Vance:
+funny voxes: 5
+% funny voxes: 0.03
+Alex Crawford:
+funny voxes: 7
+% funny voxes: 0.05
+Jared Carter:
+funny voxes: 3
+% funny voxes: 0.03
+Alex Platis:
+funny voxes: 3
+% funny voxes: 0.03
+Samuel McConkie:
+funny voxes: 0
+% funny voxes: 0.0
+
+Process finished with exit code 0
+Merit and haws both have 5% funny voces.
+Rounding up.
+Haws does win by a little.
+Merit Egan
+Haws is the true champion on here
+Brayden Haws
+Merit man, I work for you
+Therefore when I win you win
+Edward Ekstrom
+Haha
+Brayden Haws
+So does Eddy
+Presidency stats sharing
+Edward Ekstrom
+Just the best piece of software I ever wrote.
+Merit Egan
+haha
+so useful
+John Sherwood
+Haha
+Merit Egan
+I just hijacked a haha from eddy
+John Sherwood
+That haha was made for ed, yet merit swooped
+Merit Egan
+haha
+John Sherwood
+Haha for merit
+Merit Egan
+haha  for john
+Edward Ekstrom
+Dangit merit
+Merit I have the power to start you at -1 and me at 1
+Merit Egan
+haha
+no
+Edward Ekstrom
+To get that laugh back
+Merit Egan
+start haws at -100
+Edward Ekstrom
+Haha
+Brayden Haws
+Whoa merit you just want me to fail
+Merit Egan
+you're right haws. I'm sorry
+Edward Ekstrom
+There are two ways to have the tallest tower in town
+By building yours up, or ripping others down
+Merit Egan
+that is a wise vox ed
+Can we make a wise vox stat
+Edward Ekstrom
+Haha
+Brayden Haws
+10 wisdom points to Eddy
+Edward Ekstrom
+We could see who says wise after someone's vox
+Merit Egan
+i think we should create a scoring system
+Edward Ekstrom
+What do you propose?
+Merit Egan
+(total voxes * (Haha - typos)^2) divided by 1090\
+100
+Edward Ekstrom
+It's your vpi
+Vox proper index
+Merit Egan
+haha
+i just lol'd
+Edward Ekstrom
+Ayooo
+Merit Egan changed the topic to You're The Real VPI MVP
+Brayden Haws
+Guys I love our friends
+We're the coolest
+Edward Ekstrom
+Annie and I ate at este last night. I give it an 8
+Has anyone else eaten there?
+Bryan Samuelson
+Is that a pizza place?
+Edward Ekstrom
+Yup
+We went pre temple with John and Julia
+Alex Platis
+Haha
+Edward Ekstrom
+Me and John are the most righteous in the vox
+Alex Platis
+(I'm late to the party)
+Merit Egan
+when rating places (or anything), we should use the zero scale.
+Bryan Samuelson
+K I've been there, can't remember how well I like it
+Merit Egan
+basically, anything under a 5 doesn't get rated, so a 0 is a 5
+John Sherwood
+What's the prize?? (Rating scale?)
+Merit Egan
+scratch that, a 5 is a 0
+Bryan Samuelson
+The top prize!
+Merit Egan
+0=5, 1=5.5, 2=6, 3=6.5, 4=7, 5=7.5, 6=8, 7=8.5, 8=9, 9=9.5, 10=10
+cause i don't eat at places less than a 5 unless i make a mistake, and i won't make it public
+example: I got the BEEF STROGANOFF at Olive Garden. It was a 4.
+that should never be said
+Edward Ekstrom
+Haha
+Pizza could be the only food that tastes as good or better after being reheated.
+Edward Ekstrom
+
+The culture of software engineers.
+This is a letter to the John von Neumann, the father of computer science.
+"hackers getting in trouble for the first time."
+Edward Ekstrom
+https://github.com/edwardekstrom/HangoutsStats/blob/master/stats.txt
+Merit, let me know if that works.
+Brayden Haws
+Eddy you should be doing this for your job
+Just making cool programs for cool people
+Merit Egan
+It shows up great.
+Edward Ekstrom
+Excellent
+Merit Egan
+will it update from that link always?
+Edward Ekstrom
+Yes
+Brayden Haws
+Haha
+Haha
+Edward Ekstrom
+I have to run the code though.
+Brayden Haws
+Haha
+Edward Ekstrom
+but once I do, that will update
+Merit Egan
+set an auto run for every day
+Brayden Haws
+I'm paying you in hahas
+Edward Ekstrom
+That would be hard.
+Merit Egan
+eddy say something so I can also pay you in hose
+those
+Edward Ekstrom
+because I have to copy all the new text into the file that I'm scanning.
+Merit Egan
+haha
