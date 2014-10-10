@@ -5,7 +5,7 @@ __author__ = 'i53425'
 class Baller:
     def __init__(self, ballerName):
         self._name = ballerName
-        self._messageCount = 0
+        self._messageCount = 1
         self._corrections = 0
         self._characters = 0
         self._words = 0

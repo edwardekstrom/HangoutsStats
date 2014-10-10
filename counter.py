@@ -26,6 +26,9 @@ for baller in canzzersNames:
 
 currentBaller = canzzers['Edward Ekstrom\n']
 previousBaller = canzzers['Edward Ekstrom\n']
+funnyCanzzer = None
+hasFunnyCanzzer = False
+continueFlag = False
 for line in canz:
     for name in canzzersNames:
         if line == name:
@@ -33,12 +36,24 @@ for line in canz:
             currentBaller._messageCount += 1
             previousBaller = currentBaller
             currentBaller = canzzers[name]
-            continue
+            continueFlag = True
+            break
+    if continueFlag:
+        continueFlag = False
+        continue
     lowerLine = line.lower()
     if "*" in line:
         currentBaller._corrections += 1
     if ("haha" in lowerLine) or ("lol" in lowerLine) or ("hags" in lowerLine) or ("haga" in lowerLine):
-        previousBaller._funnyVoxes += 1
+        if not hasFunnyCanzzer:
+            hasFunnyCanzzer = True
+            funnyCanzzer = previousBaller;
+            funnyCanzzer._funnyVoxes += 1
+        else:
+            funnyCanzzer._funnyVoxes += 1
+    else:
+        hasFunnyCanzzer = False
+        funnyCanzzer = None
     currentBaller._characters += len(line)
 
 total = 0
