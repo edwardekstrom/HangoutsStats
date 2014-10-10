@@ -34,10 +34,10 @@ for line in canz:
             previousBaller = currentBaller
             currentBaller = canzzers[name]
             continue
-
+    lowerLine = line.lower()
     if "*" in line:
         currentBaller._corrections += 1
-    if ("haha" in line.lower()) or ("lol" in line.lower()) or ("hags" in line.lower()) or ("haga" in line.lower()):
+    if ("haha" in lowerLine) or ("lol" in lowerLine) or ("hags" in lowerLine) or ("haga" in lowerLine):
         previousBaller._funnyVoxes += 1
     currentBaller._characters += len(line)
 
