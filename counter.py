@@ -1,6 +1,5 @@
 import sys
 from Baller import Baller
-import operator
 
 canz = open('canzzersCon.txt', encoding="utf8")
 
@@ -31,20 +30,20 @@ for line in canz:
     for name in canzzersNames:
         if line == name:
             canzzersCounts[name] += 1
+            currentBaller._messageCount += 1
             previousBaller = currentBaller
             currentBaller = canzzers[name]
             continue
 
     if "*" in line:
         currentBaller._corrections += 1
-    if ("haha" in line) or ("lol" in line) or ("hags" in line) or ("haga" in line):
+    if ("haha" in line.lower()) or ("lol" in line.lower()) or ("hags" in line.lower()) or ("haga" in line.lower()):
         previousBaller._funnyVoxes += 1
     currentBaller._characters += len(line)
 
 total = 0
 for baller in canzzersNames:
     total += canzzersCounts[baller]
-    canzzers[baller]._messageCount = canzzersCounts[baller]
 
 sortedBallers = sorted(canzzersCounts, key=canzzersCounts.get)
 sys.stdout = open('stats.txt', 'w')
