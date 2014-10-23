@@ -26,8 +26,8 @@ Edward Ekstrom:
 	 total voxes: 3202
 	 percent of total: 0.14849510735982935
 	 used *: 89
-	 characters: 206168
-	 average vox length: 64.38725796377264
+	 characters: 205700
+	 average vox length: 64.24109931292942
 	 funny voxes: 232
 	 % funny voxes: 0.07245471580262336
 Colby Condie:
