@@ -76,8 +76,8 @@ David Monson:
 	 used *: 0
 	 characters: 35351
 	 average vox length: 77.35448577680525
-	 funny voxes: 89
-	 % funny voxes: 0.19474835886214442
+	 funny voxes: -11
+	 % funny voxes: -0.024070021881838075
 Bob Worsley:
 	 total voxes: 336
 	 percent of total: 0.036613272311212815

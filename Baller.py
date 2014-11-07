@@ -9,7 +9,10 @@ class Baller:
         self._corrections = 0
         self._characters = 0
         self._words = 0
-        self._funnyVoxes = 0
+        if self._name == 'David Monson\n':
+            self._funnyVoxes = -100
+        else:
+            self._funnyVoxes = 0
 
     def print(self, total):
         print(self._name[:-1] + ':')
