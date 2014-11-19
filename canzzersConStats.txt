@@ -29,8 +29,8 @@ Edward Ekstrom:
 	 total voxes: 3474 / 23281
 	 percent of total: 0.14922039431295905
 	 used *: 102
-	 characters: 224280
-	 average vox length: 64.55958549222798
+	 characters: 224315
+	 average vox length: 64.56966033390904
 	 funny voxes: 261
 	 % funny voxes: 0.07512953367875648
 	 laughs at: 390
