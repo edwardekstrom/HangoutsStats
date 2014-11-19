@@ -1,105 +1,105 @@
 Jessica Slade:
-	 total voxes: 1654 / 9177
-	 percent of total: 0.18023319167483928
-	 used *: 4
-	 characters: 156243
-	 average vox length: 94.46372430471584
-	 funny voxes: 172
-	 % funny voxes: 0.10399032648125756
-	 laughs at: 77
+	 total voxes: 1749 / 9654
+	 percent of total: 0.18116842759477936
+	 used *: 5
+	 characters: 167143
+	 average vox length: 95.56489422527159
+	 funny voxes: 184
+	 % funny voxes: 0.10520297312750143
+	 laughs at: 82
 Edward Ekstrom:
-	 total voxes: 1215 / 9177
-	 percent of total: 0.13239620791108206
+	 total voxes: 1315 / 9654
+	 percent of total: 0.13621296871763
 	 used *: 29
-	 characters: 71912
-	 average vox length: 59.186831275720166
-	 funny voxes: 95
-	 % funny voxes: 0.07818930041152264
-	 laughs at: 197
+	 characters: 80573
+	 average vox length: 61.272243346007606
+	 funny voxes: 103
+	 % funny voxes: 0.07832699619771863
+	 laughs at: 216
 Chelsee Hunt:
-	 total voxes: 1060 / 9177
-	 percent of total: 0.11550615669608805
+	 total voxes: 1082 / 9654
+	 percent of total: 0.11207789517298529
 	 used *: 13
-	 characters: 85205
-	 average vox length: 80.38207547169812
-	 funny voxes: 66
-	 % funny voxes: 0.062264150943396226
-	 laughs at: 110
+	 characters: 86955
+	 average vox length: 80.36506469500924
+	 funny voxes: 69
+	 % funny voxes: 0.06377079482439926
+	 laughs at: 113
 Kendra Kellis:
-	 total voxes: 894 / 9177
-	 percent of total: 0.09741745668519124
+	 total voxes: 952 / 9654
+	 percent of total: 0.09861197431116636
 	 used *: 7
-	 characters: 119862
-	 average vox length: 134.0738255033557
-	 funny voxes: 54
-	 % funny voxes: 0.06040268456375839
-	 laughs at: 114
+	 characters: 127032
+	 average vox length: 133.43697478991598
+	 funny voxes: 62
+	 % funny voxes: 0.06512605042016807
+	 laughs at: 119
 Annie Ekstrom:
-	 total voxes: 863 / 9177
-	 percent of total: 0.09403944644219243
-	 used *: 13
-	 characters: 60432
-	 average vox length: 70.02549246813442
-	 funny voxes: 49
-	 % funny voxes: 0.056778679026651215
-	 laughs at: 107
+	 total voxes: 919 / 9654
+	 percent of total: 0.09519370209239693
+	 used *: 15
+	 characters: 65585
+	 average vox length: 71.36561479869424
+	 funny voxes: 51
+	 % funny voxes: 0.055495103373231776
+	 laughs at: 119
 Bradley Worsley:
-	 total voxes: 824 / 9177
-	 percent of total: 0.08978969162035523
+	 total voxes: 858 / 9654
+	 percent of total: 0.08887507768800497
 	 used *: 4
-	 characters: 73025
-	 average vox length: 88.62257281553399
-	 funny voxes: 100
-	 % funny voxes: 0.12135922330097088
+	 characters: 75122
+	 average vox length: 87.55477855477855
+	 funny voxes: 107
+	 % funny voxes: 0.1247086247086247
 	 laughs at: 4
 Benjamin Hunt:
-	 total voxes: 696 / 9177
-	 percent of total: 0.07584177835894083
-	 used *: 12
-	 characters: 59646
-	 average vox length: 85.69827586206897
-	 funny voxes: 41
-	 % funny voxes: 0.05890804597701149
-	 laughs at: 164
+	 total voxes: 738 / 9654
+	 percent of total: 0.0764449968924798
+	 used *: 13
+	 characters: 61719
+	 average vox length: 83.630081300813
+	 funny voxes: 48
+	 % funny voxes: 0.06504065040650407
+	 laughs at: 176
 Katy Worsley:
-	 total voxes: 686 / 9177
-	 percent of total: 0.07475209763539283
-	 used *: 7
-	 characters: 53824
-	 average vox length: 78.46064139941691
-	 funny voxes: 75
-	 % funny voxes: 0.10932944606413994
-	 laughs at: 31
+	 total voxes: 725 / 9654
+	 percent of total: 0.07509840480629791
+	 used *: 9
+	 characters: 56376
+	 average vox length: 77.76
+	 funny voxes: 83
+	 % funny voxes: 0.11448275862068966
+	 laughs at: 37
 Christi Worsley:
-	 total voxes: 495 / 9177
-	 percent of total: 0.05393919581562602
+	 total voxes: 508 / 9654
+	 percent of total: 0.052620675367723226
 	 used *: 0
-	 characters: 41470
-	 average vox length: 83.77777777777777
-	 funny voxes: 47
-	 % funny voxes: 0.09494949494949495
+	 characters: 42921
+	 average vox length: 84.49015748031496
+	 funny voxes: 49
+	 % funny voxes: 0.09645669291338582
 	 laughs at: 3
 David Monson:
-	 total voxes: 457 / 9177
-	 percent of total: 0.04979840906614362
+	 total voxes: 474 / 9654
+	 percent of total: 0.049098819142324425
 	 used *: 0
-	 characters: 35351
-	 average vox length: 77.35448577680525
-	 funny voxes: 89
-	 % funny voxes: 0.19474835886214442
+	 characters: 38250
+	 average vox length: 80.69620253164557
+	 funny voxes: 94
+	 % funny voxes: 0.19831223628691982
 	 laughs at: 1
 Bob Worsley:
-	 total voxes: 336 / 9177
-	 percent of total: 0.036613272311212815
+	 total voxes: 337 / 9654
+	 percent of total: 0.034907810234099855
 	 used *: 0
-	 characters: 24146
-	 average vox length: 71.86309523809524
+	 characters: 24237
+	 average vox length: 71.91988130563799
 	 funny voxes: 21
-	 % funny voxes: 0.0625
+	 % funny voxes: 0.06231454005934718
 	 laughs at: 1
 newell slade:
-	 total voxes: 9 / 9177
-	 percent of total: 0.0009807126511932004
+	 total voxes: 9 / 9654
+	 percent of total: 0.0009322560596643878
 	 used *: 0
 	 characters: 550
 	 average vox length: 61.111111111111114
