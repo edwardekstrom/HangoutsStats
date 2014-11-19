@@ -17,7 +17,7 @@ class Baller:
     def print(self, total):
         print(self._name[:-1] + ':')
         print('\t total voxes: ' + str(self._messageCount))
-        print('\t percent of total: ' + str(self._messageCount / total))
+        print('\t percent of total: ' + str(self._messageCount / total) + ' / ' + str(total))
         print('\t used *: ' + str(self._corrections))
         print('\t characters: ' + str(self._characters))
         print('\t average vox length: ' + str(self._characters/self._messageCount))

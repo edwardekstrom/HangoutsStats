@@ -1,6 +1,6 @@
 Brayden Haws:
 	 total voxes: 4103
-	 percent of total: 0.17657184662391875
+	 percent of total: 0.17657184662391875 / 23237
 	 used *: 6
 	 characters: 267226
 	 average vox length: 65.12941749939068
@@ -8,7 +8,7 @@ Brayden Haws:
 	 % funny voxes: 0.11211308798440166
 Tyson Amundsen:
 	 total voxes: 3800
-	 percent of total: 0.1635322976287817
+	 percent of total: 0.1635322976287817 / 23237
 	 used *: 35
 	 characters: 291257
 	 average vox length: 76.64657894736843
@@ -16,7 +16,7 @@ Tyson Amundsen:
 	 % funny voxes: 0.05578947368421053
 Merit Egan:
 	 total voxes: 3612
-	 percent of total: 0.15544175237767355
+	 percent of total: 0.15544175237767355 / 23237
 	 used *: 20
 	 characters: 234082
 	 average vox length: 64.80675526024363
@@ -24,7 +24,7 @@ Merit Egan:
 	 % funny voxes: 0.10575858250276855
 Edward Ekstrom:
 	 total voxes: 3456
-	 percent of total: 0.1487283212118604
+	 percent of total: 0.1487283212118604 / 23237
 	 used *: 91
 	 characters: 220752
 	 average vox length: 63.875
@@ -32,7 +32,7 @@ Edward Ekstrom:
 	 % funny voxes: 0.07465277777777778
 Colby Condie:
 	 total voxes: 2823
-	 percent of total: 0.1214872832121186
+	 percent of total: 0.1214872832121186 / 23237
 	 used *: 39
 	 characters: 162956
 	 average vox length: 57.724406659582
@@ -40,7 +40,7 @@ Colby Condie:
 	 % funny voxes: 0.057739992915338295
 John Sherwood:
 	 total voxes: 1667
-	 percent of total: 0.07173903688083659
+	 percent of total: 0.07173903688083659 / 23237
 	 used *: 22
 	 characters: 93682
 	 average vox length: 56.197960407918416
@@ -48,7 +48,7 @@ John Sherwood:
 	 % funny voxes: 0.07858428314337132
 zach fackrell:
 	 total voxes: 1430
-	 percent of total: 0.061539785686620475
+	 percent of total: 0.061539785686620475 / 23237
 	 used *: 23
 	 characters: 67878
 	 average vox length: 47.46713286713287
@@ -56,7 +56,7 @@ zach fackrell:
 	 % funny voxes: 0.08251748251748252
 Bryan Samuelson:
 	 total voxes: 1247
-	 percent of total: 0.05366441451133967
+	 percent of total: 0.05366441451133967 / 23237
 	 used *: 17
 	 characters: 76587
 	 average vox length: 61.41700080192462
@@ -64,7 +64,7 @@ Bryan Samuelson:
 	 % funny voxes: 0.05934242181234964
 Jeff Knudsen:
 	 total voxes: 318
-	 percent of total: 0.013685071222619099
+	 percent of total: 0.013685071222619099 / 23237
 	 used *: 0
 	 characters: 20153
 	 average vox length: 63.374213836477985
@@ -72,7 +72,7 @@ Jeff Knudsen:
 	 % funny voxes: 0.025157232704402517
 Alex Platis:
 	 total voxes: 242
-	 percent of total: 0.010414425270043465
+	 percent of total: 0.010414425270043465 / 23237
 	 used *: 0
 	 characters: 17820
 	 average vox length: 73.63636363636364
@@ -80,7 +80,7 @@ Alex Platis:
 	 % funny voxes: 0.1859504132231405
 Seth Vance:
 	 total voxes: 197
-	 percent of total: 0.008477858587597366
+	 percent of total: 0.008477858587597366 / 23237
 	 used *: 4
 	 characters: 16249
 	 average vox length: 82.48223350253807
@@ -88,7 +88,7 @@ Seth Vance:
 	 % funny voxes: 0.06091370558375635
 Alex Crawford:
 	 total voxes: 171
-	 percent of total: 0.007358953393295176
+	 percent of total: 0.007358953393295176 / 23237
 	 used *: 3
 	 characters: 21276
 	 average vox length: 124.42105263157895
@@ -96,7 +96,7 @@ Alex Crawford:
 	 % funny voxes: 0.08771929824561403
 Jared Carter:
 	 total voxes: 153
-	 percent of total: 0.0065843267203167365
+	 percent of total: 0.0065843267203167365 / 23237
 	 used *: 0
 	 characters: 10051
 	 average vox length: 65.69281045751634
@@ -104,7 +104,7 @@ Jared Carter:
 	 % funny voxes: 0.13071895424836602
 Samuel McConkie:
 	 total voxes: 32
-	 percent of total: 0.0013771140852950037
+	 percent of total: 0.0013771140852950037 / 23237
 	 used *: 1
 	 characters: 1298
 	 average vox length: 40.5625
