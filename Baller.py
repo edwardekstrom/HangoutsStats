@@ -9,10 +9,8 @@ class Baller:
         self._corrections = 0
         self._characters = 0
         self._words = 0
-        if self._name == 'David Monson\n':
-            self._funnyVoxes = -100
-        else:
-            self._funnyVoxes = 0
+        self._funnyVoxes = 0
+        self._laughsAt = 0
 
     def print(self, total):
         print(self._name[:-1] + ':')
@@ -23,3 +21,4 @@ class Baller:
         print('\t average vox length: ' + str(self._characters/self._messageCount))
         print('\t funny voxes: ' + str(self._funnyVoxes))
         print('\t % funny voxes: ' + str(self._funnyVoxes/self._messageCount))
+        print('\t laughs at: ' + str(self._laughsAt))

@@ -37,9 +37,10 @@ for chat in chats:
         if "*" in line:
             currentBaller._corrections += 1
         if ("haha" in lowerLine) or ("lol" in lowerLine) or ("hags" in lowerLine) or ("haga" in lowerLine):
+            currentBaller._laughsAt += 1
             if not hasFunnyCanzzer:
                 hasFunnyCanzzer = True
-                funnyCanzzer = previousBaller;
+                funnyCanzzer = previousBaller
                 funnyCanzzer._funnyVoxes += 1
             else:
                 funnyCanzzer._funnyVoxes += 1
