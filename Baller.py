@@ -12,7 +12,7 @@ class Baller:
         self._funnyVoxes = 0
         self._laughsAt = 0
 
-    def print(self, total):
+    def print(self, total, chatSize):
         print(self._name[:-1] + ':')
         print('\t total voxes: ' + str(self._messageCount)  + ' / ' + str(total))
         print('\t percent of total: ' + str(self._messageCount / total+1))
@@ -22,4 +22,4 @@ class Baller:
         print('\t funny voxes: ' + str(self._funnyVoxes))
         print('\t % funny voxes: ' + str(self._funnyVoxes/self._messageCount+1))
         print('\t laughs at: ' + str(self._laughsAt))
-        print('\t funny/laughs at: ' + str(self._funnyVoxes/(self._laughsAt+1)))
+        print('\t funny/laughs at: ' + str(self._funnyVoxes/((self._laughsAt+1)/chatSize)))

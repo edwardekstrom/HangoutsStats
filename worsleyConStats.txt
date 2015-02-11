@@ -7,7 +7,7 @@ Jessica Slade:
 	 funny voxes: 283
 	 % funny voxes: 1.1124801271860096
 	 laughs at: 128
-	 funny/laughs at: 2.193798449612403
+	 funny/laughs at: 26.325581395348838
 Edward Ekstrom:
 	 total voxes: 2049 / 13149
 	 percent of total: 1.1558293406342688
@@ -17,7 +17,7 @@ Edward Ekstrom:
 	 funny voxes: 168
 	 % funny voxes: 1.08199121522694
 	 laughs at: 382
-	 funny/laughs at: 0.4386422976501306
+	 funny/laughs at: 5.263707571801566
 Chelsee Hunt:
 	 total voxes: 1272 / 13149
 	 percent of total: 1.0967373944786676
@@ -27,7 +27,7 @@ Chelsee Hunt:
 	 funny voxes: 101
 	 % funny voxes: 1.0794025157232705
 	 laughs at: 136
-	 funny/laughs at: 0.7372262773722628
+	 funny/laughs at: 8.846715328467154
 Bradley Worsley:
 	 total voxes: 1188 / 13149
 	 percent of total: 1.0903490759753593
@@ -37,7 +37,7 @@ Bradley Worsley:
 	 funny voxes: 141
 	 % funny voxes: 1.1186868686868687
 	 laughs at: 8
-	 funny/laughs at: 15.666666666666666
+	 funny/laughs at: 188.0
 Kendra Kellis:
 	 total voxes: 1169 / 13149
 	 percent of total: 1.0889040991710397
@@ -47,7 +47,7 @@ Kendra Kellis:
 	 funny voxes: 78
 	 % funny voxes: 1.0667236954662105
 	 laughs at: 142
-	 funny/laughs at: 0.5454545454545454
+	 funny/laughs at: 6.545454545454546
 Annie Ekstrom:
 	 total voxes: 1098 / 13149
 	 percent of total: 1.0835044490075292
@@ -57,7 +57,7 @@ Annie Ekstrom:
 	 funny voxes: 70
 	 % funny voxes: 1.0637522768670309
 	 laughs at: 148
-	 funny/laughs at: 0.4697986577181208
+	 funny/laughs at: 5.6375838926174495
 Benjamin Hunt:
 	 total voxes: 1028 / 13149
 	 percent of total: 1.0781808502547723
@@ -67,7 +67,7 @@ Benjamin Hunt:
 	 funny voxes: 75
 	 % funny voxes: 1.0729571984435797
 	 laughs at: 264
-	 funny/laughs at: 0.2830188679245283
+	 funny/laughs at: 3.3962264150943398
 Katy Worsley:
 	 total voxes: 996 / 13149
 	 percent of total: 1.075747205110655
@@ -77,7 +77,7 @@ Katy Worsley:
 	 funny voxes: 107
 	 % funny voxes: 1.107429718875502
 	 laughs at: 54
-	 funny/laughs at: 1.9454545454545455
+	 funny/laughs at: 23.345454545454547
 Christi Worsley:
 	 total voxes: 748 / 13149
 	 percent of total: 1.0568864552437447
@@ -87,7 +87,7 @@ Christi Worsley:
 	 funny voxes: 86
 	 % funny voxes: 1.1149732620320856
 	 laughs at: 3
-	 funny/laughs at: 21.5
+	 funny/laughs at: 258.0
 David Monson:
 	 total voxes: 710 / 13149
 	 percent of total: 1.0539965016351054
@@ -97,7 +97,7 @@ David Monson:
 	 funny voxes: 135
 	 % funny voxes: 1.1901408450704225
 	 laughs at: 1
-	 funny/laughs at: 67.5
+	 funny/laughs at: 810.0
 Bob Worsley:
 	 total voxes: 366 / 13149
 	 percent of total: 1.027834816335843
@@ -107,7 +107,7 @@ Bob Worsley:
 	 funny voxes: 23
 	 % funny voxes: 1.0628415300546448
 	 laughs at: 1
-	 funny/laughs at: 11.5
+	 funny/laughs at: 138.0
 newell slade:
 	 total voxes: 9 / 13149
 	 percent of total: 1.000684462696783

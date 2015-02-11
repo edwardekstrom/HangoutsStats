@@ -56,4 +56,4 @@ for chat in chats:
     sortedBallers = sorted(canzzersCounts, key=canzzersCounts.get)
     sys.stdout = open(chat + 'Stats.txt', 'w')
     for baller in reversed(sortedBallers):
-        canzzers[baller].print(total)
+        canzzers[baller].print(total, len(canzzers))
