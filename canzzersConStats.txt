@@ -7,7 +7,7 @@ Brayden Haws:
 	 funny voxes: 591
 	 % funny voxes: 1.115723516741727
 	 laughs at: 200
-	 funny/laughs at: 41.16417910447761
+	 funny/(laughs at/chat size): 41.16417910447761
 Tyson Amundsen:
 	 total voxes: 4722 / 28430
 	 percent of total: 1.1660921561730566
@@ -17,7 +17,7 @@ Tyson Amundsen:
 	 funny voxes: 295
 	 % funny voxes: 1.0624735281660314
 	 laughs at: 449
-	 funny/laughs at: 9.177777777777777
+	 funny/(laughs at/chat size): 9.177777777777777
 Merit Egan:
 	 total voxes: 4444 / 28430
 	 percent of total: 1.1563137530777348
@@ -27,7 +27,7 @@ Merit Egan:
 	 funny voxes: 509
 	 % funny voxes: 1.1145364536453646
 	 laughs at: 420
-	 funny/laughs at: 16.926365795724465
+	 funny/(laughs at/chat size): 16.926365795724465
 Edward Ekstrom:
 	 total voxes: 4396 / 28430
 	 percent of total: 1.1546253957087584
@@ -37,7 +37,7 @@ Edward Ekstrom:
 	 funny voxes: 321
 	 % funny voxes: 1.0730209281164695
 	 laughs at: 561
-	 funny/laughs at: 7.9964412811387895
+	 funny/(laughs at/chat size): 7.9964412811387895
 Colby Condie:
 	 total voxes: 3222 / 28430
 	 percent of total: 1.113330988392543
@@ -47,7 +47,7 @@ Colby Condie:
 	 funny voxes: 214
 	 % funny voxes: 1.0664183736809436
 	 laughs at: 410
-	 funny/laughs at: 7.289537712895377
+	 funny/(laughs at/chat size): 7.289537712895377
 John Sherwood:
 	 total voxes: 2101 / 28430
 	 percent of total: 1.0739008090045727
@@ -57,7 +57,7 @@ John Sherwood:
 	 funny voxes: 183
 	 % funny voxes: 1.0871013802950975
 	 laughs at: 73
-	 funny/laughs at: 34.62162162162162
+	 funny/(laughs at/chat size): 34.62162162162162
 zach fackrell:
 	 total voxes: 1703 / 28430
 	 percent of total: 1.0599015124868096
@@ -67,7 +67,7 @@ zach fackrell:
 	 funny voxes: 155
 	 % funny voxes: 1.0910158543746329
 	 laughs at: 160
-	 funny/laughs at: 13.478260869565217
+	 funny/(laughs at/chat size): 13.478260869565217
 Bryan Samuelson:
 	 total voxes: 1476 / 28430
 	 percent of total: 1.0519169890960254
@@ -77,7 +77,7 @@ Bryan Samuelson:
 	 funny voxes: 94
 	 % funny voxes: 1.0636856368563685
 	 laughs at: 149
-	 funny/laughs at: 8.773333333333333
+	 funny/(laughs at/chat size): 8.773333333333333
 Jeff Knudsen:
 	 total voxes: 329 / 28430
 	 percent of total: 1.0115722827998592
@@ -87,7 +87,7 @@ Jeff Knudsen:
 	 funny voxes: 13
 	 % funny voxes: 1.0395136778115501
 	 laughs at: 17
-	 funny/laughs at: 10.11111111111111
+	 funny/(laughs at/chat size): 10.11111111111111
 Alex Platis:
 	 total voxes: 322 / 28430
 	 percent of total: 1.0113260640168835
@@ -97,7 +97,7 @@ Alex Platis:
 	 funny voxes: 57
 	 % funny voxes: 1.1770186335403727
 	 laughs at: 12
-	 funny/laughs at: 61.38461538461538
+	 funny/(laughs at/chat size): 61.38461538461538
 Seth Vance:
 	 total voxes: 208 / 28430
 	 percent of total: 1.0073162152655646
@@ -107,7 +107,7 @@ Seth Vance:
 	 funny voxes: 15
 	 % funny voxes: 1.0721153846153846
 	 laughs at: 35
-	 funny/laughs at: 5.833333333333333
+	 funny/(laughs at/chat size): 5.833333333333333
 Jared Carter:
 	 total voxes: 178 / 28430
 	 percent of total: 1.0062609919099543
@@ -117,7 +117,7 @@ Jared Carter:
 	 funny voxes: 30
 	 % funny voxes: 1.1685393258426966
 	 laughs at: 2
-	 funny/laughs at: 140.0
+	 funny/(laughs at/chat size): 140.0
 Alex Crawford:
 	 total voxes: 176 / 28430
 	 percent of total: 1.0061906436862469
@@ -127,7 +127,7 @@ Alex Crawford:
 	 funny voxes: 16
 	 % funny voxes: 1.0909090909090908
 	 laughs at: 7
-	 funny/laughs at: 28.0
+	 funny/(laughs at/chat size): 28.0
 Samuel McConkie:
 	 total voxes: 46 / 28430
 	 percent of total: 1.001618009145269
@@ -137,4 +137,4 @@ Samuel McConkie:
 	 funny voxes: 5
 	 % funny voxes: 1.108695652173913
 	 laughs at: 3
-	 funny/laughs at: 17.5
+	 funny/(laughs at/chat size): 17.5
