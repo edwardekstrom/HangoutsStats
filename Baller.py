@@ -22,4 +22,4 @@ class Baller:
         print('\t funny voxes: ' + str(self._funnyVoxes))
         print('\t % funny voxes: ' + str(self._funnyVoxes/self._messageCount+1))
         print('\t laughs at: ' + str(self._laughsAt))
-        print('\t funny/laughs at: ' + str(self._funnyVoxes/((self._laughsAt+1)/chatSize)))
+        print('\t funny/(laughs at/chat size): ' + str(self._funnyVoxes/((self._laughsAt+1)/chatSize)))
