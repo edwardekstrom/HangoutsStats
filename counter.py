@@ -1,14 +1,15 @@
 import sys
 from Baller import Baller
-chats = ['worsleyCon', "canzzersCon"]
+chats = ["canzzersCon"]
 for chat in chats:
-    canz = open(chat + '.txt', encoding="utf8")
+    canz = open(chat + '.txt')
 
     canzzersNames = canz.readline()
     canzzersNames = canzzersNames[:-1].split(",")
     firstLine = []
     for name in canzzersNames:
         firstLine.append(name + "\n")
+        print name
     canzzersNames = firstLine
     canzzersCounts = {}
     canzzers = {}
@@ -56,4 +57,4 @@ for chat in chats:
     sortedBallers = sorted(canzzersCounts, key=canzzersCounts.get)
     sys.stdout = open(chat + 'Stats.txt', 'w')
     for baller in reversed(sortedBallers):
-        canzzers[baller].print(total, len(canzzers))
+        canzzers[baller].printBaller(total, len(canzzers))
