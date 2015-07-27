@@ -3,3 +3,4 @@ __pycache__
 test.txt
 canzzersCon.txt
 worsleyCon.txt
+*.pyc
